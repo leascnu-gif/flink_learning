@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="E:\flink\flink_video\day01\code\flink_learning\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="E:\flink\flink_video\day01\code\flink_learning" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>

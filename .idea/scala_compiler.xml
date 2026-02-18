@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="flink_learning">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\FLink\3.资料-flink入门到精通（黑马程序员）\day05\code\flink_learning\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="day01">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\FLink\3.资料-flink入门到精通（黑马程序员）\day05\code\flink_learning\day01\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="day02">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\FLink\3.资料-flink入门到精通（黑马程序员）\day05\code\flink_learning\day02\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="day03">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\FLink\3.资料-flink入门到精通（黑马程序员）\day05\code\flink_learning\day03\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="day04">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\FLink\3.资料-flink入门到精通（黑马程序员）\day05\code\flink_learning\day04\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="day05">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\FLink\3.资料-flink入门到精通（黑马程序员）\day05\code\flink_learning\day05\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
